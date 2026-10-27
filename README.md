@@ -137,4 +137,4 @@ C:\Users\(사용자 이름)\AppData\LocalLow\RXSFanGame\Rockman X Survivors\save
 - **원작:** 록맨 X 시리즈 (Mega Man X series) © CAPCOM
 - 게임에 사용된 캐릭터, 스프라이트, 효과음, 음악의 권리는 모두 원 저작권자에게 있습니다.
 - 이 게임은 **무료 · 비영리** 팬 게임이며, 권리자의 요청이 있으면 배포를 중단합니다.
-- 게임 프로그램: (제작자 이름)
+- 게임 프로그램: Reborn / goho727@naver.com
