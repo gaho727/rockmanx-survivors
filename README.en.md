@@ -2,7 +2,7 @@
 
 [한국어](README.md) | **English**
 
-A fan-made survivors-like action game: play as X from Rockman X (Mega Man X) and **survive for 30 minutes** against endless waves of Mechaniloids.
+A fan-made survivors-like action game: play as X from Rockman X (Mega Man X) and **survive for 30 minutes** against endless waves of Enamies.
 Collect special weapons and armor from X4, X5 and X6 to build your own loadout.
 
 > ⚠️ **Unofficial fan game · Non-commercial**
@@ -140,4 +140,4 @@ Use the **한국어 / English** button at the top-right of the main menu.
 - **Original work:** Rockman X series (Mega Man X series) © CAPCOM
 - All rights to the characters, sprites, sound effects and music used in this game belong to their original owners.
 - This is a **free, non-commercial** fan game, and distribution will stop at the request of the rights holder.
-- Programming: (creator name)
+- Programming: Reborn / goho727@naver.com
