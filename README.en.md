@@ -29,7 +29,7 @@ Collect special weapons and armor from X4, X5 and X6 to build your own loadout.
 
 ### Language
 - The game starts in Korean if your PC is set to Korean, and in English otherwise.
-- You can switch between **한국어 / English** at any time with the button in the **top-right of the main menu**.
+- You can switch between **한국어 / English** at any time with the button in the **top-right of the settings**.
 
 ### Requirements
 | Item | Details |
