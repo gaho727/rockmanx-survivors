@@ -1,4 +1,4 @@
-# Rockman X Survivors
+# Megaman X Survivors
 
 [한국어](README.md) | **English**
 
