@@ -2,8 +2,7 @@
 
 [한국어](README.md) | **English**
 
-A fan-made survivors-like action game: play as X from Rockman X (Mega Man X) and **survive for 30 minutes** against endless waves of Enamies.
-Collect special weapons and armor from X4, X5 and X6 to build your own loadout.
+A fan-made survivors-like action game: play as X from Rockman X (Mega Man X) and take on endless waves of enemies.
 
 > ⚠️ **Unofficial fan game · Non-commercial**
 > All rights to Rockman X (Mega Man X) characters, artwork, music and more belong to **CAPCOM**.
@@ -29,7 +28,7 @@ Collect special weapons and armor from X4, X5 and X6 to build your own loadout.
 
 ### Language
 - The game starts in Korean if your PC is set to Korean, and in English otherwise.
-- You can switch between **한국어 / English** at any time with the button in the **top-right of the settings**.
+- You can change it any time under **Settings → Game → Language**.
 
 ### Requirements
 | Item | Details |
@@ -47,62 +46,30 @@ Collect special weapons and armor from X4, X5 and X6 to build your own loadout.
 | Move | WASD / Arrow keys | Left stick |
 | Attack | Automatic | Automatic |
 | Dash | Space / Shift / J | A / RB |
-| Giga Attack (after completing an armor) | E / K | Y |
+| Giga Attack | E / K | Y |
 | Pick a level-up card | ←→ + Enter, 1 · 2 · 3, mouse click | D-pad + A |
 | Reroll level-up cards | R | Y |
 | Pause | Esc / P | Start |
 | Toggle synergy info | Tab | Press left stick |
 | Mute | M | — |
+| Menu confirm | Enter / Space | A |
 | Menu back | Esc / Backspace | B |
 
-- Choose between *Auto Aim* and *Mouse Aim* in **Settings**.
+- Choose between *Auto Aim* and *Mouse Aim* under **Settings → Game**.
 - The pause menu offers **Resume · Settings · Restart · Quit to Title**.
-
----
-
-## 📖 Game Guide
-
-### Goal
-- **Survive for 30 minutes to clear the game.** Stronger and enhanced enemies swarm in as time goes on.
-- Collect the **energy crystals** dropped by defeated enemies to level up, then pick one of 3 cards to power up.
-
-### Progression
-| Element | Description |
-|---|---|
-| Buster Growth | 1 shot → 2-shot → 3-shot → Semi Charge → Full Charge |
-| 9 Special Weapons | Weapons from X4 · X5 · X6. They **evolve** at level 5 |
-| Series Synergy | Collect all 3 weapons from the same series to boost attack, fire rate and move speed |
-| Armor | Collect the 4 armor parts of the first series whose synergy you complete to finish the **Force · Falcon · Blade Armor**. Damage taken is reduced and you can use a **Giga Attack** |
-| Reroll | Don't like the level-up cards? Draw again (limited uses) |
-
-### Reploid Rescue
-- During play, Reploids crying **"HELP!"** appear off-screen. Follow the arrow at the screen edge and touch them to rescue!
-- Each look gives a different reward.
-
-| Look | Reward |
-|---|---|
-| Green | HP restore |
-| Pink | Big HP restore |
-| Gold | Absorb all EXP on the map |
-| Purple | Reroll +1 |
-
-### Dr. Light's Lab (Permanent Upgrades)
-- At the end of each run you earn **metal** based on survival time, kills and level. (The *Metal Salvage* level-up card also gives metal.)
-- In the **Lab** on the main menu, spend metal on permanent upgrades such as Attack, Heart Tanks (max HP) and the Sub Tank.
-- You can **Reset All** upgrades at any time to get your metal back.
 
 ---
 
 ## 💾 Save Data
 
-Progress (metal, lab upgrades, best records, settings and language) is saved automatically.
+Your progress and settings are saved automatically.
 
 ```
 C:\Users\(your user name)\AppData\LocalLow\RXSFanGame\Rockman X Survivors\save.json
 ```
 
 - This file is kept when you update to a new version.
-- To start over from scratch, delete this file.
+- To start over, use **Settings → Game → Reset Progress** on the main menu. Your settings are kept, and the previous save is backed up in the same folder.
 
 ### Uninstall
 Just delete the game folder. To remove your save as well, also delete the `Rockman X Survivors` folder at the path above.
@@ -118,13 +85,13 @@ Make sure you fully extracted the zip before running. The other files in the fol
 Because it is an unsigned program made by an individual, some antivirus software may flag it as suspicious. Only use files downloaded from this repository's [Releases page](../../releases).
 
 **Q. How do I switch between windowed and fullscreen?**
-Go to **Settings → Screen Mode** from the main menu or the pause menu.
+Go to **Settings → Display → Screen Mode** from the main menu or the pause menu.
 
 **Q. Can I change the background music?**
-Yes. Pick the main menu and in-game tracks under **Settings → the note button (BGM)**.
+Yes. Pick the main menu and in-game tracks under **Settings → Sound**.
 
-**Q. How do I change the language?**
-Use the **한국어 / English** button at the top-right of the main menu.
+**Q. I want to stream or record the game.**
+Turn on **Settings → Sound → Streamer Mode**. Tracks that can't be used in streams or videos are then left out of random BGM. Tracks you pick yourself still play, so please be careful.
 
 ---
 
@@ -140,4 +107,4 @@ Use the **한국어 / English** button at the top-right of the main menu.
 - **Original work:** Rockman X series (Mega Man X series) © CAPCOM
 - All rights to the characters, sprites, sound effects and music used in this game belong to their original owners.
 - This is a **free, non-commercial** fan game, and distribution will stop at the request of the rights holder.
-- Programming: Reborn / goho727@naver.com
+- Programming: Reborn / gaho727@gmail.com
