@@ -104,7 +104,13 @@ Turn on **Settings → Sound → Streamer Mode**. Tracks that can't be used in s
 
 ## 📜 Copyright & Credits
 
-- **Original work:** Rockman X series (Mega Man X series) © CAPCOM
-- All rights to the characters, sprites, sound effects and music used in this game belong to their original owners.
-- This is a **free, non-commercial** fan game, and distribution will stop at the request of the rights holder.
-- Programming: Reborn / gaho727@gmail.com
+- **Game Design & Development:** Reborn
+- **Original IP:** Mega Man X series © CAPCOM
+
+This is an unofficial, non-commercial fan game distributed free of charge. It is not officially affiliated with, endorsed by, or sponsored by CAPCOM.
+
+All rights to third-party content used in this game, including characters, sprites, music, and sound effects, belong to their respective copyright holders.
+
+**Claude (Anthropic)** and **Codex (OpenAI)** were used as AI-assisted tools for programming and UI development. All game concepts, system designs, creative decisions, and overall development management were handled by the creator.
+
+If a legitimate copyright holder raises concerns, the relevant content will be modified or distribution of the game will be discontinued.
